@@ -1,0 +1,9 @@
+de\skyl\hook\listener\JoinListener.class
+de\skyl\hook\main\Main.class
+de\skyl\hook\vault\EconomyImplementer.class
+de\skyl\hook\commands\BlanaceCommand.class
+de\skyl\hook\main\Manager.class
+de\skyl\hook\main\Core.class
+de\skyl\hook\mysql\MySQL.class
+de\skyl\hook\mysql\Economy.class
+de\skyl\hook\vault\VaultHook.class

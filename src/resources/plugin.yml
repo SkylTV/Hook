@@ -1,0 +1,6 @@
+name: VaultHook
+version: 1.0
+author: SkylTV
+main: de.skyl.hook.main.Main
+commands:
+  balance:
